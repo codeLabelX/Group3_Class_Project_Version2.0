@@ -1,6 +1,6 @@
 package setup;
 
-public class UpdatedFile {
+public class SeventhFile {
 
 
     public static void main(String[] args) {
